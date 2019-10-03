@@ -1,0 +1,10 @@
+dist
+*log*
+*.log*
+public
+.cache
+coverage
+.DS_Store
+.yarnclean
+node_modules
+package-lock.json
