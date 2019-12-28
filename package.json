@@ -13,24 +13,24 @@
     "start": "gatsby develop"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.20",
-    "@mdx-js/react": "^1.5.0",
-    "gatsby": "^2.15.28",
-    "gatsby-plugin-theme-ui": "^0.2.43",
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2",
-    "theme-ui": "^0.2.43"
+    "@emotion/core": "^10.0.27",
+    "@mdx-js/react": "^1.5.3",
+    "gatsby": "^2.18.17",
+    "gatsby-plugin-theme-ui": "^0.2.53",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "theme-ui": "^0.2.52"
   },
   "devDependencies": {
-    "eslint": "^6.5.1",
-    "eslint-config-prettier": "^6.3.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-mdx": "^1.5.5",
-    "eslint-plugin-prettier": "^3.1.1",
-    "eslint-plugin-react": "^7.15.1",
-    "husky": "^3.0.8",
-    "lint-staged": "^9.4.1",
-    "prettier": "^1.18.2"
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-mdx": "^1.6.5",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.17.0",
+    "husky": "^3.1.0",
+    "lint-staged": "^9.5.0",
+    "prettier": "^1.19.1"
   },
   "husky": {
     "hooks": {
